@@ -12,7 +12,7 @@ Requirements:
 
 ---
 
-In order to build this functioning website, I had to:
+### In order to build this functioning website, I had to:
 
 * determine how to structure the functions necessary to create the prompts and character selections
 
@@ -24,8 +24,10 @@ In order to build this functioning website, I had to:
 
 * That generated selection is then added to the Function Declaration that indicates where to show the password in the html using the document.querySelector 
 ---
-Links to website and repository:
-website: 
+### Links:
+website: https://mjpagenkopf.github.io/employee_pw_gen/
+
+Repository: https://github.com/mjpagenkopf/employee_pw_gen
 
 
 ### Screenshot for Reference
@@ -37,3 +39,6 @@ website:
 [Screenshot 3](/assets/images/Screenshot3.png)
 
 [Screenshot 4](/assets/images/Screenshot4.png)
+
+
+
