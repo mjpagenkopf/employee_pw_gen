@@ -90,10 +90,3 @@ let characterSelection = function() { //function expression B - determines the r
   return passwordIncludes;
 //PasswordIncludes will be the value of characterSelection//
 }
-
-
-
-
-
-
-
